@@ -7,7 +7,7 @@
 | 回数 | 日付         | 資料ページ | 
 |---|------------|------| 
 | 1 | 2023年9月21日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-09-21.ipynb | 
-
+| 2 | 2023年9月28日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-09-28.ipynb | 
 
 ### 演習解答例
 - 次回講義開始時にアップロード予定
