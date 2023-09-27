@@ -10,6 +10,8 @@
 | 2 | 2023年9月28日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-09-28.ipynb | 
 | 3 | 2023年10月5日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-10-05.ipynb | 
 | 4 | 2023年10月12日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-10-12.ipynb | 
+| 5 | 2023年10月19日 | レポート演習 | 
+| 6 | 2023年10月26日 |  | 
 
 ### 演習解答例
 - 次回講義開始時にアップロード予定
