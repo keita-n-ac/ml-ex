@@ -18,8 +18,8 @@
 
 | 回数 | 日付         | 資料ページ | 
 |---|------------|------| 
-| 1 | 2023年9月21日 | https://github.com/keita-n-ac/ml-ex/blob/main/2022-09-21-ex-ans.ipynb | 
-| 2 | 2023年9月28日 | https://github.com/keita-n-ac/ml-ex/blob/main/2022-09-28-ex-ans.ipynb | 
+| 1 | 2023年9月21日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-09-21-ex-ans.ipynb | 
+| 2 | 2023年9月28日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-09-28-ex-ans.ipynb | 
 
 
 #### 注意事項
