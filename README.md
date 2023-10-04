@@ -5,7 +5,7 @@
 ### 資料ページ
 
 | 回数 | 日付         | 内容 | 資料ページ | 
-|---|------------|------| 
+|---|------------|------|---| 
 | 1 | 2023年9月21日 | 入出力・変数 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-09-21.ipynb | 
 | 2 | 2023年9月28日 | 選択処理 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-09-28.ipynb | 
 | 3 | 2023年10月5日 | 繰り返し処理 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-10-05.ipynb | 
