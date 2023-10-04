@@ -4,14 +4,15 @@
 
 ### 資料ページ
 
-| 回数 | 日付         | 資料ページ | 
+| 回数 | 日付         | 内容 | 資料ページ | 
 |---|------------|------| 
-| 1 | 2023年9月21日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-09-21.ipynb | 
-| 2 | 2023年9月28日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-09-28.ipynb | 
-| 3 | 2023年10月5日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-10-05.ipynb | 
-| 4 | 2023年10月12日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-10-12.ipynb | 
-| 5 | 2023年10月19日 | レポート演習 | 
-| 6 | 2023年10月26日 |  | 
+| 1 | 2023年9月21日 | 入出力・変数 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-09-21.ipynb | 
+| 2 | 2023年9月28日 | 選択処理 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-09-28.ipynb | 
+| 3 | 2023年10月5日 | 繰り返し処理 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-10-05.ipynb | 
+| 4 | 2023年10月12日 | 2重ループ | https://github.com/keita-n-ac/ml-ex/blob/main/2023-10-12.ipynb | 
+| 5 | 2023年10月19日 | 1〜4回目の復習 | レポート演習 | 
+| 6 | 2023年10月26日 | リスト | 作成中 | 
+| 7 | 2023年11月2日 | グラフ可視化 | 作成中 | 
 
 ### 演習解答例
 - 次回講義開始時にアップロード予定
