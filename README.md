@@ -10,7 +10,7 @@
 | 2 | 2023年9月28日 | 選択処理 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-09-28.ipynb | 
 | 3 | 2023年10月5日 | 繰り返し処理 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-10-05.ipynb | 
 | 4 | 2023年10月12日 | 2重ループ | https://github.com/keita-n-ac/ml-ex/blob/main/2023-10-12.ipynb | 
-| 5 | 2023年10月19日 | 1〜4回目の復習 | 10/19講義開始前にアップロード予定 | 
+| 5 | 2023年10月19日 | 1〜4回目の復習（レポート1回目）| https://github.com/keita-n-ac/ml-ex/blob/main/report1.ipynb | 
 | 6 | 2023年10月26日 | リスト | 作成中 | 
 | 7 | 2023年11月2日 | ライブラリ | 作成中 | 
 | 8 | 2023年11月9日 | グラフ可視化 | 作成中 | 
