@@ -26,6 +26,7 @@
 | 2 | 2023年9月28日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-09-28-ex-ans.ipynb | 
 | 3 | 2023年10月5日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-10-05-ex-ans.ipynb | 
 | 4 | 2023年10月12日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-10-12-ex-ans.ipynb | 
+| 5 | 2023年10月19日 | https://github.com/keita-n-ac/ml-ex/blob/main/report1-ans.ipynb | 
 | 6 | 2023年10月26日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-10-26-ex-ans.ipynb | 
 | 7 | 2023年11月2日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-11-02-ex-ans.ipynb | 
 
