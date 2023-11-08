@@ -13,7 +13,7 @@
 | 5 | 2023年10月19日 | 1〜4回目の復習（レポート1回目）| https://github.com/keita-n-ac/ml-ex/blob/main/report1.ipynb | 
 | 6 | 2023年10月26日 | コレクション1 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-10-26.ipynb | 
 | 7 | 2023年11月2日 | コレクション2 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-11-02.ipynb | 
-| 8 | 2023年11月9日 | ライブラリ | 作成中 | 
+| 8 | 2023年11月9日 | ライブラリ | https://github.com/keita-n-ac/ml-ex/blob/main/2023-11-09.ipynb | 
 | 9 | 2023年11月16日 | グラフ可視化 | 作成中 | 
 | 10 | 2023年11月30日 | 1〜8回目の復習（レポート2回目）|  | 
 
