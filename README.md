@@ -29,7 +29,8 @@
 | 5 | 2023年10月19日 | https://github.com/keita-n-ac/ml-ex/blob/main/report1-ans.ipynb | 
 | 6 | 2023年10月26日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-10-26-ex-ans.ipynb | 
 | 7 | 2023年11月2日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-11-02-ex-ans.ipynb | 
-| 7 | 2023年11月9日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-11-09-ex-ans.ipynb | 
+| 8 | 2023年11月9日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-11-09-ex-ans.ipynb | 
+| 9 | 2023年11月16日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-11-16-ex-ans.ipynb | 
 
 #### 注意事項
 - jupyter notebookの使い方はiTossにアップロードしております
