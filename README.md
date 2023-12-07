@@ -16,7 +16,7 @@
 | 8 | 2023年11月9日 | ライブラリ | https://github.com/keita-n-ac/ml-ex/blob/main/2023-11-09.ipynb | 
 | 9 | 2023年11月16日 | グラフ可視化 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-11-16.ipynb | 
 | 10 | 2023年11月30日 | 1〜8回目の復習（レポート2回目）| https://github.com/keita-n-ac/ml-ex/blob/main/report2.ipynb | 
-| 11 | 2023年12月7日 | データフレーム（表形式） |  | 
+| 11 | 2023年12月7日 | データフレーム（表形式） | https://github.com/keita-n-ac/ml-ex/blob/main/2023-12-07.ipynb | 
 
 ### 演習解答例
 - 次回講義開始前にはアップロード予定
