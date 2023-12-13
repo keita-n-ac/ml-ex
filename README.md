@@ -38,7 +38,7 @@
 | 8 | 2023年11月9日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-11-09-ex-ans.ipynb | 
 | 9 | 2023年11月16日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-11-16-ex-ans.ipynb | 
 | 10 | 2023年11月30日 |  | 
-| 11 | 2023年12月7日 |  | 
+| 11 | 2023年12月7日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-12-07-ex-ans.ipynb | 
 | 12 | 2023年12月14日 |  | 
 | 13 | 2023年12月21日 |  | 
 | 14 | 2023年1月11日 |  | 
