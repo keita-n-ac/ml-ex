@@ -18,7 +18,7 @@
 | 10 | 2023年11月30日 | 1〜8回目の復習（レポート2回目）| https://github.com/keita-n-ac/ml-ex/blob/main/report2.ipynb | 
 | 11 | 2023年12月7日 | データフレーム（表形式） | https://github.com/keita-n-ac/ml-ex/blob/main/2023-12-07.ipynb | 
 | 12 | 2023年12月14日 | 機械学習の流れ（前半） | https://github.com/keita-n-ac/ml-ex/blob/main/2023-12-14.ipynb | 
-| 13 | 2023年12月21日 | 機械学習の流れ（後半）および機械学習手法の紹介 |  | 
+| 13 | 2023年12月21日 | 機械学習の流れ（後半）および機械学習手法の紹介 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-12-21.ipynb | 
 | 14 | 2024年1月11日 | 1〜13回目の復習（レポート3回目） |  | 
 | 15 | 2024年2月1日 | 試験 | 資料なし | 
 - 1/25は休講予定です（補講なし）．
