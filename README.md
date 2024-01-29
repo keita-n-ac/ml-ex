@@ -43,7 +43,7 @@
 | 11 | 2023年12月7日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-12-07-ex-ans.md | 
 | 12 | 2023年12月14日 | https://github.com/keita-n-ac/ml-ex/blob/main/2023-12-14-ex-ans.ipynb | 
 | 13 | 2023年12月21日 | 演習なし | 
-| 14 | 2023年1月11日 |  | 
+| 14 | 2023年1月11日 | https://github.com/keita-n-ac/ml-ex/blob/main/report3-ans.ipynb | 
 | 15 | 2023年2月1日 | 資料なし | 
 
 #### 注意事項
