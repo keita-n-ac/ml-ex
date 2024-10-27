@@ -20,6 +20,7 @@
 | 3 | 2024年10月10日 | 変数 | https://github.com/keita-n-ac/ml-ex/blob/main/2024-10-10.ipynb | 
 | 4 | 2024年10月17日 | 条件分岐 | https://github.com/keita-n-ac/ml-ex/blob/main/2024-10-17.ipynb | 
 | 5 | 2024年10月24日 | 繰り返し処理（基礎） | https://github.com/keita-n-ac/ml-ex/blob/main/2024-10-24.ipynb | 
+| 6 | 2024年10月31日 | 繰り返し処理（応用） |  | 
 
 ## 解答例ページ
 | 回数 | 日付         | 内容 | 資料ページ | 
@@ -28,6 +29,7 @@
 | 2 | 2024年10月3日 | 休講 | 休講のためなし | 
 | 3 | 2024年10月10日 | 変数 | https://github.com/keita-n-ac/ml-ex/blob/main/2024-10-10-ans.ipynb | 
 | 4 | 2024年10月17日 | 条件分岐 | https://github.com/keita-n-ac/ml-ex/blob/main/2024-10-17-ans.ipynb | 
+| 5 | 2024年10月24日 | 繰り返し処理（基礎） | https://github.com/keita-n-ac/ml-ex/blob/main/2024-10-17-ans.ipynb | 
 
 ## 注意事項
 - 1週で相当進むので，わからないところが早急に質問すること
