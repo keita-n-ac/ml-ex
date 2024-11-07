@@ -23,7 +23,7 @@
 | 5 | 2024年10月31日 | 繰り返し処理（応用） | https://github.com/keita-n-ac/ml-ex/blob/main/2024-10-31.ipynb | 
 | 6 | 2024年11月7日 | レポート1 | https://github.com/keita-n-ac/ml-ex/blob/main/2024-report1.ipynb | 
 | - | 2024年11月14日 | 休講 | 休講のためなし（別日で講義補填を行います．）| 
-| 7 | 2024年11月21日 | コレクション |  | 
+| 7 | 2024年11月21日 | コレクション（基礎） | https://github.com/keita-n-ac/ml-ex/blob/main/2024-11-21.ipynb | 
 | 8 | 2024年11月28日 |  | | 
 | 9 | 2024年12月5日 |  | | 
 
@@ -36,7 +36,7 @@
 | 4 | 2024年10月24日 | 繰り返し処理（基礎） | https://github.com/keita-n-ac/ml-ex/blob/main/2024-10-24-ans.ipynb | 
 | 5 | 2024年10月31日 | 繰り返し処理（応用） | https://github.com/keita-n-ac/ml-ex/blob/main/2024-10-31-ans.ipynb | 
 | 6 | 2024年11月7日 | レポート1 | 後日掲載 |  
-| 7 | 2024年11月21日 | コレクション |  | 
+| 7 | 2024年11月21日 | コレクション（基礎） |  | 
 | 8 | 2024年11月28日 |  |
 | 9 | 2024年12月5日 |  | 
 
