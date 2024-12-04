@@ -26,7 +26,7 @@
 | 7 | 2024年11月21日 | コレクション（基礎） | https://github.com/keita-n-ac/ml-ex/blob/main/2024-11-21.ipynb | 
 | 8 | 2024年11月28日 | コレクション（応用） | https://github.com/keita-n-ac/ml-ex/blob/main/2024-11-28.ipynb | 
 | 9 | 2024年12月5日 | ライブラリ | https://github.com/keita-n-ac/ml-ex/blob/main/2024-12-5.ipynb | 
-| 10 | 2024年12月7日（補講日） | レポート2 | | 
+| 10 | 2024年12月7日（補講日） | レポート2 | https://github.com/keita-n-ac/ml-ex/blob/main/2024-report2.ipynb | 
 | 11 | 2024年12月12日 | データフレーム | | 
 | - | 2024年12月19日 | 休講 | 休講のためなし（別日で講義補填を行います．）| 
 | 12 | 2024年1月9日 | 機械学習前半 | | 
