@@ -45,7 +45,7 @@
 | 6 | 2024年11月7日 | レポート1 | 後日掲載 |  
 | 7 | 2024年11月21日 | コレクション（基礎） | https://github.com/keita-n-ac/ml-ex/blob/main/2024-11-21-ans.ipynb | 
 | 8 | 2024年11月28日 | コレクション（応用） | https://github.com/keita-n-ac/ml-ex/blob/main/2024-11-28-ans.ipynb | 
-| 9 | 2024年12月5日 | ライブラリ | | 
+| 9 | 2024年12月5日 | ライブラリ | https://github.com/keita-n-ac/ml-ex/blob/main/2024-12-5-ans.ipynb | 
 | 10 | 2024年12月7日（補講日） | レポート2 | | 
 | 11 | 2024年12月12日 | データフレーム | | 
 | 12 | 2025年1月9日 | 機械学習前半 | | 
