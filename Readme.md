@@ -30,7 +30,7 @@
 | 11 | 2024年12月12日 | データフレーム | https://github.com/keita-n-ac/ml-ex/blob/main/2024-12-12.ipynb | 
 | - | 2024年12月19日 | 休講 | 休講のためなし（別日で講義補填を行います．）| 
 | 12 | 2025年1月9日 | 機械学習前半 | https://github.com/keita-n-ac/ml-ex/blob/main/2025-01-09.ipynb | 
-| 13 | 2025年1月16日 | 機械学習後半 | | 
+| 13 | 2025年1月16日 | 機械学習後半 | https://github.com/keita-n-ac/ml-ex/blob/main/2025-01-16.ipynb | 
 | 14 | 2025年1月25日 | レポート3 | | 
 | 15 | 2025年1月30日 | テスト | テストのためなし | 
 
