@@ -50,7 +50,7 @@
 | 11 | 2024年12月12日 | データフレーム | https://github.com/keita-n-ac/ml-ex/blob/main/2024-12-12-ans.ipynb | 
 | 12 | 2025年1月9日 | 機械学習前半 | https://github.com/keita-n-ac/ml-ex/blob/main/2025-01-09-ans.ipynb | 
 | 13 | 2025年1月16日 | 機械学習後半 | なし | 
-| 14 | 2025年1月25日 | レポート3 | https://github.com/keita-n-ac/ml-ex/blob/main/2024-report3-ans.ipynb | 
+| 14 | 2025年1月25日 | レポート3 | https://github.com/keita-n-ac/ml-ex/blob/main/2025-report3-ans.ipynb | 
 | 15 | 2025年1月30日 | テスト | テストのためなし | 
 
 ## 注意事項
