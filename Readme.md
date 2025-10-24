@@ -20,6 +20,7 @@
 | - | 2025年10月9日 | 休講 | 休講のためなし | 
 | 3 | 2025年10月16日 | 条件分岐 | https://github.com/keita-n-ac/ml-ex/blob/main/lec3.ipynb | 
 | 4 | 2025年10月23日 | 繰り返し（基礎） | https://github.com/keita-n-ac/ml-ex/blob/main/lec4.ipynb | 
+| 5 | 2025年10月30日 | 繰り返し（応用） | https://github.com/keita-n-ac/ml-ex/blob/main/lec5.ipynb | 
 
 ## 解答例ページ
 | 回数 | 日付         | 内容 | 資料ページ | 
@@ -27,6 +28,7 @@
 | 1 | 2025年9月25日 | ガイダンス | https://github.com/keita-n-ac/ml-ex/blob/main/ans1.ipynb | 
 | 2 | 2025年10月2日 | 変数 | https://github.com/keita-n-ac/ml-ex/blob/main/ans2.ipynb |
 | 3 | 2025年10月16日 | 条件分岐 | https://github.com/keita-n-ac/ml-ex/blob/main/ans3.ipynb | 
+| 4 | 2025年10月23日 | 繰り返し（基礎） | https://github.com/keita-n-ac/ml-ex/blob/main/ans4.ipynb | 
 
 ## 注意事項
 - プログラミング演習がメインです（**積み重ねの演習ですので，1回の欠席が致命的になります**）
