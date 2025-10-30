@@ -30,6 +30,11 @@
 | 3 | 2025年10月16日 | 条件分岐 | https://github.com/keita-n-ac/ml-ex/blob/main/ans3.ipynb | 
 | 4 | 2025年10月23日 | 繰り返し（基礎） | https://github.com/keita-n-ac/ml-ex/blob/main/ans4.ipynb | 
 
+## 解答例ページ
+| 回数 | 日付     | 資料ページ | 
+|---|---------------| 
+| 1 | 2025年10月30日 | https://github.com/keita-n-ac/ml-ex/blob/main/2025-report1.md | 
+
 ## 注意事項
 - プログラミング演習がメインです（**積み重ねの演習ですので，1回の欠席が致命的になります**）
 - 1週で相当進むので，わからないところが早急に質問すること
