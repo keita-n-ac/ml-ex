@@ -30,7 +30,7 @@
 | 3 | 2025年10月16日 | 条件分岐 | https://github.com/keita-n-ac/ml-ex/blob/main/ans3.ipynb | 
 | 4 | 2025年10月23日 | 繰り返し（基礎） | https://github.com/keita-n-ac/ml-ex/blob/main/ans4.ipynb | 
 
-## 解答例ページ
+## レポートページ
 | 回数 | 日付     | 資料ページ | 
 |---|---------------| ---------------| 
 | 1 | 2025年10月30日 | https://github.com/keita-n-ac/ml-ex/blob/main/2025-report1.md | 
