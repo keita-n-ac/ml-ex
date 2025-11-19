@@ -21,8 +21,9 @@
 | 3 | 2025年10月16日 | 条件分岐 | https://github.com/keita-n-ac/ml-ex/blob/main/lec3.ipynb | 
 | 4 | 2025年10月23日 | 繰り返し（基礎） | https://github.com/keita-n-ac/ml-ex/blob/main/lec4.ipynb | 
 | 5 | 2025年10月30日 | 繰り返し（応用） | https://github.com/keita-n-ac/ml-ex/blob/main/lec5.ipynb | 
-| 6 | 2025年11月6日 | データ構造 | https://github.com/keita-n-ac/ml-ex/blob/main/lec6.ipynb | 
+| 6 | 2025年11月6日 | データ構造（基礎） | https://github.com/keita-n-ac/ml-ex/blob/main/lec6.ipynb | 
 | - | 2025年11月13日 | 休講 | 休講のため無し | 
+| 7 | 2025年11月6日 | データ構造（応用） | https://github.com/keita-n-ac/ml-ex/blob/main/lec7.ipynb | 
 
 ## 解答例ページ
 | 回数 | 日付         | 内容 | 資料ページ | 
@@ -32,6 +33,7 @@
 | 3 | 2025年10月16日 | 条件分岐 | https://github.com/keita-n-ac/ml-ex/blob/main/ans3.ipynb | 
 | 4 | 2025年10月23日 | 繰り返し（基礎） | https://github.com/keita-n-ac/ml-ex/blob/main/ans4.ipynb | 
 | 5 | 2025年10月30日 | 繰り返し（応用） | https://github.com/keita-n-ac/ml-ex/blob/main/ans5.ipynb | 
+| 6 | 2025年11月6日 | データ構造（基礎） | https://github.com/keita-n-ac/ml-ex/blob/main/ans6.ipynb | 
 
 ## レポートページ
 | 回数 | 日付     | 資料ページ | 
