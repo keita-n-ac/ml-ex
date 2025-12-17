@@ -26,6 +26,9 @@
 | 7 | 2025年11月20日 | データ構造（応用） | https://github.com/keita-n-ac/ml-ex/blob/main/lec7.ipynb | 
 | 8 | 2025年11月27日 | ライブラリ（基礎） | https://github.com/keita-n-ac/ml-ex/blob/main/lec8.ipynb | 
 | 9 | 2025年12月4日 | ライブラリ（つづき） | https://github.com/keita-n-ac/ml-ex/blob/main/lec9.ipynb | 
+| 10 | 2025年12月6日 | 補講 | レポート2を解くための補講 | 
+| - | 2025年12月11日 | 休講 | 休講のためなし | 
+| 11 | 2025年12月18日 | ライブラリ（応用） | https://github.com/keita-n-ac/ml-ex/blob/main/lec11.ipynb | 
 
 ## 解答例ページ
 | 回数 | 日付         | 内容 | 資料ページ | 
@@ -38,7 +41,9 @@
 | 6 | 2025年11月6日 | データ構造（基礎） | https://github.com/keita-n-ac/ml-ex/blob/main/ans6.ipynb | 
 | 7 | 2025年11月20日 | データ構造（応用） | https://github.com/keita-n-ac/ml-ex/blob/main/ans7.ipynb | 
 | 8 | 2025年11月27日 | ライブラリ（基礎）） | 途中で終わったためなし | 
-| 9 | 2025年12月4日 | ライブラリ（つづき）） |  | 
+| 9 | 2025年12月4日 | ライブラリ（つづき） | https://github.com/keita-n-ac/ml-ex/blob/main/ans9.ipynb | 
+| 10 | 2025年12月6日 | 補講 | 補講のため無し | 
+| 11| 2025年12月18日 | ライブラリ（応用） |  | 
 
 ## レポートページ
 | 回数 | 日付     | 資料ページ | 
