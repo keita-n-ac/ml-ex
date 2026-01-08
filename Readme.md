@@ -30,7 +30,7 @@
 | - | 2025年12月11日 | 休講 | 休講のためなし | 
 | 11 | 2025年12月18日 | ライブラリ（応用） | https://github.com/keita-n-ac/ml-ex/blob/main/lec11.ipynb | 
 | 12 | 2026年1月8日 | 機械学習（前半） | https://github.com/keita-n-ac/ml-ex/blob/main/lec12.ipynb | 
-| 13 | 2026年1月15日 | 機械学習（後半） |  | 
+| 13 | 2026年1月15日 | 機械学習（後半） | https://github.com/keita-n-ac/ml-ex/blob/main/lec13.ipynb | 
 | 14 | 2026年1月24日 | 補講 | レポート3を解くための補講 | 
 | 15 | 2026年1月29日 | テスト | テストのためなし | 
 
@@ -48,7 +48,7 @@
 | 9 | 2025年12月4日 | ライブラリ（つづき） | https://github.com/keita-n-ac/ml-ex/blob/main/ans9.ipynb | 
 | 10 | 2025年12月6日 | 補講 | 補講のため無し | 
 | 11 | 2025年12月18日 | ライブラリ（応用） | https://github.com/keita-n-ac/ml-ex/blob/main/ans11.ipynb | 
-| 12 | 2026年1月8日 | 機械学習（前半） |  | 
+| 12 | 2026年1月8日 | 機械学習（前半） | https://github.com/keita-n-ac/ml-ex/blob/main/ans12.ipynb | 
 | 13 | 2026年1月15日 | 機械学習（後半） |  | 
 | 14 | 2026年1月24日 | 補講 | 補講のためなし 
 | 15 | 2026年1月29日 | テスト | テストのためなし | 
