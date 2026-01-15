@@ -58,7 +58,7 @@
 |---|---------------| ---------------| 
 | 1 | 2025年10月30日 | https://github.com/keita-n-ac/ml-ex/blob/main/2025-report1.md | 
 | 2 | 2025年12月4日 | https://github.com/keita-n-ac/ml-ex/blob/main/2025-report2.md | 
-| 3 | 2026年1月15日 |  | 
+| 3 | 2026年1月15日 | https://github.com/keita-n-ac/ml-ex/blob/main/2025-report3.md | 
 
 ## 注意事項
 - プログラミング演習がメインです（**積み重ねの演習ですので，1回の欠席が致命的になります**）
