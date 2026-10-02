@@ -15,11 +15,12 @@
 | 回数 | 日付         | 内容 | 資料ページ | 
 |---|------------|------|---| 
 | 1 | 2026年10月1日 | ガイダンス | https://github.com/keita-n-ac/ml-ex/blob/main/lec1.ipynb | 
+| 2 | 2026年10月8日 | 標準IO/変数 | https://github.com/keita-n-ac/ml-ex/blob/main/lec2.ipynb | 
 
 ## 解答例ページ
 | 回数 | 日付         | 内容 | 資料ページ | 
 |---|------------|------|---| 
-| 1 | 2026年10月1日 | ガイダンス | | 
+| 1 | 2026年10月1日 | ガイダンス | https://github.com/keita-n-ac/ml-ex/blob/main/ans1.ipynb | 
 
 ## レポートページ
 | 回数 | 日付     | 資料ページ | 
