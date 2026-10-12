@@ -22,7 +22,7 @@
 | 回数 | 日付         | 内容 | 資料ページ | 
 |---|------------|------|---| 
 | 1 | 2026年10月1日 | ガイダンス | https://github.com/keita-n-ac/ml-ex/blob/main/ans1.ipynb | 
-| 2 | 2026年10月1日 | 標準IO/変数 | https://github.com/keita-n-ac/ml-ex/blob/main/ans2.ipynb | 
+| 2 | 2026年10月8日 | 標準IO/変数 | https://github.com/keita-n-ac/ml-ex/blob/main/ans2.ipynb | 
 
 ## レポートページ
 | 回数 | 日付     | 資料ページ | 
