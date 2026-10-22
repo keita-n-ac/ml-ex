@@ -18,7 +18,7 @@
 | 2 | 2026年10月8日 | 標準IO/変数 | https://github.com/keita-n-ac/ml-ex/blob/main/lec2.ipynb | 
 | 3 | 2026年10月15日 | 条件分岐 | https://github.com/keita-n-ac/ml-ex/blob/main/lec3.ipynb | 
 | 4 | 2026年10月22日 | 繰り返し処理 | https://github.com/keita-n-ac/ml-ex/blob/main/lec4.ipynb | 
-| 5 | 2026年10月29日 | 構造化プログラミング/2重ループ | https://github.com/keita-n-ac/ml-ex/blob/main/lec4.ipynb | 
+| 5 | 2026年10月29日 | 構造化プログラミング/2重ループ | https://github.com/keita-n-ac/ml-ex/blob/main/lec5.ipynb | 
 
 ## 解答例ページ
 | 回数 | 日付         | 内容 | 資料ページ | 
