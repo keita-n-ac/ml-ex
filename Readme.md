@@ -19,6 +19,7 @@
 | 3 | 2026年10月15日 | 条件分岐 | https://github.com/keita-n-ac/ml-ex/blob/main/lec3.ipynb | 
 | 4 | 2026年10月22日 | 繰り返し処理 | https://github.com/keita-n-ac/ml-ex/blob/main/lec4.ipynb | 
 | 5 | 2026年10月29日 | 構造化プログラミング/2重ループ | https://github.com/keita-n-ac/ml-ex/blob/main/lec5.ipynb | 
+| 6 | 2026年11月5日 | リスト | https://github.com/keita-n-ac/ml-ex/blob/main/lec6.ipynb | 
 
 ## 解答例ページ
 | 回数 | 日付         | 内容 | 資料ページ | 
@@ -27,11 +28,18 @@
 | 2 | 2026年10月8日 | 標準IO/変数 | https://github.com/keita-n-ac/ml-ex/blob/main/ans2.ipynb | 
 | 3 | 2026年10月15日 | 条件分岐 | https://github.com/keita-n-ac/ml-ex/blob/main/ans3.ipynb | 
 | 4 | 2026年10月22日 | 繰り返し処理 | https://github.com/keita-n-ac/ml-ex/blob/main/ans4.ipynb | 
+| 5 | 2026年10月29日 | 構造化プログラミング/2重ループ | https://github.com/keita-n-ac/ml-ex/blob/main/ans5.ipynb | 
 
 ## レポートページ
 | 回数 | 日付     | 資料ページ | 
 |---|---------------| ---------------| 
 | 1 | 2026年10月29日 | https://github.com/keita-n-ac/ml-ex/blob/main/2026-repo1.md | 
+
+## レポート解答例ページ
+| 回数 | 日付     | 資料ページ | 
+|---|---------------| ---------------| 
+| 1 | 2026年10月29日 |  | 
+
 
 ## 注意事項
 - プログラミング演習がメインです（**積み重ねの演習ですので，1回の欠席が致命的になります**）
