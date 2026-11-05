@@ -20,6 +20,7 @@
 | 4 | 2026年10月22日 | 繰り返し処理 | https://github.com/keita-n-ac/ml-ex/blob/main/lec4.ipynb | 
 | 5 | 2026年10月29日 | 構造化プログラミング/2重ループ | https://github.com/keita-n-ac/ml-ex/blob/main/lec5.ipynb | 
 | 6 | 2026年11月5日 | リスト | https://github.com/keita-n-ac/ml-ex/blob/main/lec6.ipynb | 
+| 7 | 2026年11月12日 | リスト | https://github.com/keita-n-ac/ml-ex/blob/main/lec7.ipynb | 
 
 ## 解答例ページ
 | 回数 | 日付         | 内容 | 資料ページ | 
@@ -29,6 +30,7 @@
 | 3 | 2026年10月15日 | 条件分岐 | https://github.com/keita-n-ac/ml-ex/blob/main/ans3.ipynb | 
 | 4 | 2026年10月22日 | 繰り返し処理 | https://github.com/keita-n-ac/ml-ex/blob/main/ans4.ipynb | 
 | 5 | 2026年10月29日 | 構造化プログラミング/2重ループ | https://github.com/keita-n-ac/ml-ex/blob/main/ans5.ipynb | 
+| 6 | 2026年11月5日 | リスト | https://github.com/keita-n-ac/ml-ex/blob/main/ans6.ipynb | 
 
 ## レポートページ
 | 回数 | 日付     | 資料ページ | 
