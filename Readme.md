@@ -21,7 +21,12 @@
 | 5 | 2026年10月29日 | 構造化プログラミング/2重ループ | https://github.com/keita-n-ac/ml-ex/blob/main/lec5.ipynb | 
 | 6 | 2026年11月5日 | リスト/ディクショナリ | https://github.com/keita-n-ac/ml-ex/blob/main/lec6.ipynb | 
 | 7 | 2026年11月12日 | タプル/セット/コレクション | https://github.com/keita-n-ac/ml-ex/blob/main/lec7.ipynb | 
-| 8 | 2026年11月19日 | ライブラリ | https://github.com/keita-n-ac/ml-ex/blob/main/lec8.ipynb | 
+| 8 | 2026年11月19日 | ライブラリ基礎 | https://github.com/keita-n-ac/ml-ex/blob/main/lec8.ipynb | 
+| 9 | 2026年11月26日 | ライブラリ（グラフ生成） |  | 
+| 10 | 2026年12月3日 | ライブラリ（表形式データ） |  | 
+| - | 2026年12月10日 | 休講 | 0 | 
+
+
 
 ## 解答例ページ
 | 回数 | 日付         | 内容 | 資料ページ | 
