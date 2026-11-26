@@ -23,7 +23,7 @@
 | 7 | 2026年11月12日 | タプル/セット/コレクション | https://github.com/keita-n-ac/ml-ex/blob/main/lec7.ipynb | 
 | 8 | 2026年11月19日 | ライブラリ基礎 | https://github.com/keita-n-ac/ml-ex/blob/main/lec8.ipynb | 
 | 9 | 2026年11月26日 | ライブラリ（グラフ生成） | https://github.com/keita-n-ac/ml-ex/blob/main/lec9.ipynb | 
-| 10 | 2026年12月3日 | ライブラリ（表形式データ） |  | 
+| 10 | 2026年12月3日 | ライブラリ（表形式データ） | https://github.com/keita-n-ac/ml-ex/blob/main/lec10.ipynb | 
 | - | 2026年12月10日 | 休講 | - | 
 
 
@@ -39,13 +39,14 @@
 | 6 | 2026年11月5日 | リスト/ディクショナリ | https://github.com/keita-n-ac/ml-ex/blob/main/ans6.ipynb | 
 | 7 | 2026年11月12日 | タプル/セット/コレクション | https://github.com/keita-n-ac/ml-ex/blob/main/ans7.ipynb | 
 | 8 | 2026年11月19日 | ライブラリ基礎 | https://github.com/keita-n-ac/ml-ex/blob/main/ans8.ipynb | 
-| 9 | 2026年11月26日 | ライブラリ（グラフ生成） |  | 
+| 9 | 2026年11月26日 | ライブラリ（グラフ生成） | https://github.com/keita-n-ac/ml-ex/blob/main/ans9.ipynb | 
 | 10 | 2026年12月3日 | ライブラリ（表形式データ） |  | 
 
 ## レポートページ
 | 回数 | 日付     | 資料ページ | 
 |---|---------------| ---------------| 
 | 1 | 2026年10月29日 | https://github.com/keita-n-ac/ml-ex/blob/main/2026-repo1.md | 
+| 2 | 2026年12月3日 |  | 
 
 ## レポート解答例ページ
 | 回数 | 日付     | 資料ページ | 
